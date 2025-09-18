@@ -1,3 +1,6 @@
 [submodule "SGB/3.Implementacao/SGB---Frontend"]
 	path = SGB/3.Implementacao/SGB---Frontend
 	url = https://github.com/NickCampos03/SGB---Frontend.git
+[submodule "SGB/3.Implementacao/SGB---Backend"]
+	path = SGB/3.Implementacao/SGB---Backend
+	url = https://github.com/NickCampos03/SGB---Backend.git
