@@ -88,7 +88,7 @@ Documentos contendo:
 
 ## 🏗 Arquitetura do Sistema
 
-![Arquitetura AWS](2.AnaliseDesign/SGB-Diagrama-AWS.png)
+![Arquitetura AWS](2-Analise-e-Design/SGB-Diagrama-AWS.png)
 
 **Figura — Arquitetura do sistema hospedado na AWS.**
 
