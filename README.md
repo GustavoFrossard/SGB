@@ -4,7 +4,6 @@
 
 Este repositório contém o **Sistema de Gerenciamento de Biblioteca (SGB)**, desenvolvido com front-end em **React**, back-end em **Java/Spring Boot** e banco de dados **PostgreSQL**, totalmente implantado na **AWS**.
 
-O projeto contempla todas as etapas do ciclo de desenvolvimento de software: **levantamento de requisitos, análise e design, implementação, testes, implantação e gerenciamento de projeto**.
 
 ---
 
@@ -13,8 +12,8 @@ O projeto contempla todas as etapas do ciclo de desenvolvimento de software: **l
 - Estrutura do Repositório  
 - Conteúdo do Projeto  
 - Arquitetura do Sistema  
-- Guia de Implantação  
-- Instruções de Instalação Rápida  
+- Arquitetura do Sistema 
+- Guia de Implantação
 - Componentes do Sistema  
 - Componentes da Nuvem  
 - Autores  
@@ -89,7 +88,7 @@ Documentos contendo:
 
 ## 🏗 Arquitetura do Sistema
 
-![Diagrama de Arquitetura](2.Analise%20e%20Design/SGB-Diagrama-AWS.png)
+![Arquitetura AWS](2.Analise%20e%20Design/SGB-Diagrama-AWS.png)
 
 **Figura — Arquitetura do sistema hospedado na AWS.**
 
@@ -132,26 +131,26 @@ http://localhost:8080
 
 ##🔐 Variáveis de ambiente
 
--As variáveis estão definidas em um arquivo .env.
--Por segurança as variaveis de banco de dados não estão contidas no repositorio
+- As variáveis estão definidas em um arquivo .env.
+- Por **segurança** as variaveis de banco de dados não estão contidas no repositorio
 
 
 ##🧩 Componentes do sistema
--Backend [Java/SpringBoot]
--Frontend [React]
--Banco de dados [PostgreSQL]
--Autenticação [JWT]
+- Backend [Java/SpringBoot]
+- Frontend [React]
+- Banco de dados [PostgreSQL]
+- Autenticação [JWT]
 
 ##🧩 Componentes da Nuvem
--EC2
--RDS/PostgreSQL
--Internet Gateway e NAT gateway
--Load Balancer
--Target Groups
--VPC
--Launch Template
--AutoScaling
--Tabela de Rotas Publicas/Privadas
+- EC2
+- RDS/PostgreSQL
+- Internet Gateway e NAT gateway
+- Load Balancer
+- Target Groups
+- VPC
+- Launch Template
+- AutoScaling
+- Tabela de Rotas Publicas/Privadas
 
 ## 👨‍💻 Autores
 
