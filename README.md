@@ -7,19 +7,6 @@ Este repositório contém o **Sistema de Gerenciamento de Biblioteca (SGB)**, de
 
 ---
 
-## 📑 Sumário
-
-- Estrutura do Repositório  
-- Conteúdo do Projeto  
-- Arquitetura do Sistema  
-- Arquitetura do Sistema 
-- Guia de Implantação
-- Componentes do Sistema  
-- Componentes da Nuvem  
-- Autores  
-
----
-
 ## 📁 Estrutura do Repositório
 
 ```
