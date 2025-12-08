@@ -2,7 +2,8 @@
 
 ## Sistema de Gerenciamento de Biblioteca
 O Sistema de Gerenciamento de Biblioteca (SGB), consiste na gestão eficiente do empréstimo e devolução de livros em bibliotecas, que envolve o controle rigoroso do acervo, o atendimento aos usuários e o acompanhamento do fluxo dos livros. Bibliotecários precisam gerenciar esses processos manualmente, o que pode causar atrasos, erros no registro e dificuldades no controle do histórico dos empréstimos. A demanda crescente por agilidade e organização nesse fluxo torna necessária uma solução que otimize o processo, reduzindo a burocracia e aumentando a satisfação dos usuários.
-Este repositório contém o **Sistema de Gerenciamento de Biblioteca (SGB)**, desenvolvido com front-end em **React**, back-end em **Java/Spring Boot**, ambos rodando em uma instancia EC2 e banco de dados **PostgreSQL**, utilizando RDS da Amazon.
+
+--Este repositório contém o **Sistema de Gerenciamento de Biblioteca (SGB)**, desenvolvido com front-end em **React**, back-end em **Java/Spring Boot**, ambos rodando em uma instancia EC2 e banco de dados **PostgreSQL**, utilizando RDS da Amazon.
 
 
 ---
